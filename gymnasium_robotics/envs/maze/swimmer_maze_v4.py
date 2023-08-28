@@ -17,7 +17,7 @@ from typing import Dict, List, Optional, Union
 
 import numpy as np
 from gymnasium import spaces
-from gymnasium.envs.mujoco.swimmer_v4 import SwimmerEnv
+from gymnasium.envs.mujoco.swimmer_v5 import SwimmerEnv
 from gymnasium.utils.ezpickle import EzPickle
 
 from gymnasium_robotics.envs.maze.maps import U_MAZE
